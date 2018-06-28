@@ -29,9 +29,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  
+
  baseurl: ""
-  url: "https://username.github.io"
+  url: "https://jmtee.github.io"
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
